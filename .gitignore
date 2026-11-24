@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Virtual environment (never upload this - requirements.txt recreates it)
+venv/
+.venv/
+env/
+
+# Secrets - never commit passwords, tokens or keys
+.env
+.env.*
+.streamlit/secrets.toml
+
+# Editor / OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Files made while using the app locally
+*.log
+*_cleaned.csv
+*_cleaned.xlsx
+*_report.html
+
+# NOTE: assets/dit_logo.png and sample_data/*.csv MUST be committed - do not ignore them.

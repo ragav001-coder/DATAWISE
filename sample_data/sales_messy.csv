@@ -1,0 +1,85 @@
+Order ID,Order Date,Customer Name,Product,Category,Quantity,Unit Price,Discount %,Total Amount,Payment Status,Region
+ORD-2001,28/06/2024,DINESH PATEL,Desk,furniture,4,9500,5,36100.0,FAILED,East
+ORD-2002,"May 22, 2024",Pooja Singh,Smartphone,Electronics,5,22000,10,99000.0,Pending,North
+ORD-2003,2024-02-29,Sneha Singh,Desk,Furniture,3,9500,10,25650.0,Failed,East
+ORD-2004,2024-06-09,Vignesh Singh,Pen Set,Stationery,2,Rs 150,15,255.0,Pending,North
+ORD-2005,2024-08-11,Sneha Naidu,Laptop,Electronics,4,55000,10,198000.0,Pending,East
+ORD-2006,"Mar 04, 2024",Suresh Patel,Desk,furniture,5,"$9,500",15,40375.0,Pending,South
+ORD-2007,2024-04-08,Nisha Naidu,Pen Set,Stationery,7,150,5,997.5,FAILED,North
+ORD-2008,2024-06-04,,Desk,FURNITURE,4,9500,15,32300.0,Failed,West
+ORD-2009,2024-08-14,Mythili Naidu,Office Chair,Furniture,8,7500,5,57000.0, pending ,East
+ORD-2010,17/02/2024,Harish Singh,Office Chair,Furniture ,5,"Rs 7,500",5,35625.0,Paid,North
+ORD-2011,"Jan 24, 2024",Priya Patel,Office Chair,furniture,8,7500,0,60000.0,Paid,West
+ORD-2012,2024-09-10,POOJA SINGH,Pen Set,Stationery,4,150,5,570.0,Paid,West
+ORD-2013,22/04/2024,Keerthi Reddy,Headphones,Electronics,-2,2500,0,20000.0,PAID,West
+ORD-2014,"Mar 09, 2024",Nisha Naidu,Water Bottle,Home,6,450,15,2295.0,Failed,South
+ORD-2015,31-08-2024,Divya Singh,,HOME,5,450,5,2137.5,Failed,South
+ORD-2016,20-05-2024,Deepa Patel,Water Bottle,home,2,450,10,810.0,Pending,East
+ORD-2017,"Oct 03, 2024",Deepa Patel,Smartphone,Electronics,3,22000,5,62700.0, paid ,South
+ORD-2018,"Feb 02, 2024",Keerthi Reddy,Pen Set,Stationery,7,Rs 150,10,945.0,Failed,North
+ORD-2019,"Apr 15, 2024",Swathi Iyer,Pen Set,Stationery ,7,150,0,,FAILED,North
+ORD-2020,29/06/2024,Keerthi Reddy,Desk,Furniture,7,9500,15,56525.0,Failed,South
+ORD-2021,19-05-2024,Janani Sharma,Pen Set,stationery,8,$150,0,1200.0,Failed,South
+ORD-2022,2024-08-27,Sneha Patel,Headphones,ELECTRONICS,1,2500,15,2125.0,Paid,West
+ORD-2023,"Mar 10, 2024",JANANI PILLAI,Water Bottle,Home,3,450,0,1350.0,,South
+ORD-2024,"Aug 20, 2024",Janani Pillai,Notebook Pack,Stationery,6,250,15,1275.0,Pending,North
+ORD-2025,2024-08-28,Deepa Patel,Laptop,Electronics,1,55000,10,49500.0,PAID,North
+ORD-2026,2024-05-06,Deepa Patel,Office Chair,furniture,1,7500,5,7125.0,Failed,North
+ORD-2027,15-10-2024,Ashok Raj,Office Chair,Furniture,8,"Rs 7,500",10,54000.0,Paid,North
+ORD-2028,24-03-2024,Keerthi Menon,Desk,Furniture ,2,9500,0,19000.0,Failed,West
+ORD-2029,2024-04-11,Lakshmi Nair,Smartphone,ELECTRONICS,4,22000,0,88000.0,Paid,North
+ORD-2030,26-06-2024,Divya Patel,Backpack,Accessories,7,1800,150,11340.0,Paid,West
+ORD-2031,"Sep 07, 2024",Pooja Singh,Smartphone,electronics,7,22000,10,138600.0,PAID,West
+ORD-2032,"Mar 31, 2024",,Backpack,Accessories,5,1800,15,7650.0,Pending,East
+ORD-2033,"May 05, 2024",Deepa Patel,Smartphone,Electronics,5,22000,15,93500.0, failed ,East
+ORD-2034,15/01/2024,NISHA KUMAR,Water Bottle,Home,6,$450,5,2565.0,Pending,East
+ORD-2035,23/06/2024,Priya Rao,Desk,Furniture,5,9500,0,47500.0,Paid,South
+ORD-2036,"Jul 27, 2024",Pooja Singh,Water Bottle,home,4,450,15,1530.0,Failed,North
+ORD-2037,17/02/2024,Lakshmi Nair,Desk,Furniture ,4,9500,15,32300.0,PENDING,East
+ORD-2038,30-08-2024,Priya Naidu,Backpack,Accessories,6,1800,15,9180.0,Pending,West
+ORD-2039,18/05/2024,Kavya Iyer,Desk,Furniture,5,"Rs 9,500",5,45125.0,Pending,North
+ORD-2040,"Oct 01, 2024",Priya Naidu,Headphones,Electronics,4,2500,5,9500.0,Pending,East
+ORD-2041,21/02/2024,Keerthi Iyer,Office Chair,furniture,5,7500,5,35625.0, pending ,North
+ORD-2042,31/02/2024,Sneha Singh,Headphones,Electronics,5,2500,0,12500.0,Paid,West
+ORD-2043,"Feb 22, 2024",Nisha Kumar,Laptop,ELECTRONICS,5,55000,15,233750.0,PENDING,South
+ORD-2044,2024-01-27,Divya Singh,Desk,Furniture,8,9500,0,76000.0,Failed,West
+ORD-2045,2024-02-07,HARISH SINGH,Laptop,Electronics,0,55000,5,156750.0,Paid,South
+ORD-2046,"Mar 01, 2024",Ashok Raj,Backpack,accessories,7,1800,5,11970.0,Failed,West
+ORD-2047,2024-06-01,Nisha Naidu,Pen Set,Stationery,5,150,0,750.0,Paid,South
+ORD-2048,2024-05-15,Pooja Raj,Smartphone,Electronics,3,22000,5,62700.0,Paid,North
+ORD-2049,28/07/2024,Sneha Singh,Water Bottle,Home,8,450,10,3240.0,PENDING,East
+ORD-2050,20/08/2024,Harish Singh,,ELECTRONICS,4,22000,10,79200.0,Failed,North
+ORD-2051,2024-10-05,Divya Singh,Office Chair,furniture,3,7500,10,20250.0,Paid,North
+ORD-2052,"Mar 25, 2024",Kavya Iyer,Desk,Furniture,5,"Rs 9,500",15,40375.0,Pending,West
+ORD-2053,2024-05-19,Divya Patel,Backpack,Accessories,8,1800,15,12240.0,Failed,East
+ORD-2054,2024-11-05,Deepa Patel,Desk,Furniture,1,9500,0,9500.0,Pending,North
+ORD-2055,"Mar 30, 2024",Pooja Raj,Water Bottle,Home ,8,450,10,3240.0,FAILED,North
+ORD-2056,2024-08-28,SURESH PATEL,Notebook Pack,stationery,7,250,10,1575.0,Paid,East
+ORD-2057,2024-07-29,Divya Singh,Water Bottle,HOME,5,450,15,1912.5, failed ,North
+ORD-2058,"Jun 10, 2024",Ashok Raj,Desk,Furniture,6,9500,0,57000.0,,West
+ORD-2059,"Jul 30, 2024",Nisha Naidu,Laptop,Electronics,4,55000,10,198000.0,Failed,North
+ORD-2060,"Apr 14, 2024",Priya Patel,Desk,Furniture,3,9500,10,25650.0,Paid,North
+ORD-2061,2024-11-18,Keerthi Reddy,Office Chair,furniture,480,7500,10,20250.0,FAILED,North
+ORD-2062,25/04/2024,Pooja Singh,Smartphone,Electronics,8,22000,0,176000.0,Failed,East
+ORD-2063,17/09/2024,Nisha Kumar,Desk,Furniture,7,9500,15,56525.0,Failed,South
+ORD-2064,"Jul 15, 2024",Janani Pillai,Office Chair,FURNITURE,3,7500,0,22500.0,Pending,East
+ORD-2065,2024-01-02,Swathi Iyer,Desk,Furniture,5,"Rs 9,500",15,40375.0, failed ,West
+ORD-2066,25-06-2024,Keerthi Menon,Notebook Pack,stationery,7,250,15,1487.5,Paid,South
+ORD-2067,not available,SNEHA SINGH,Pen Set,Stationery,4,150,15,510.0,FAILED,West
+ORD-2068,16-07-2024,Pooja Iyer,Headphones,Electronics,8,2500,0,20000.0,Paid,West
+ORD-2069,21/02/2024,Priya Naidu,Backpack,Accessories,8,1800,0,14400.0,Failed,South
+ORD-2070,"Feb 08, 2024",Nisha Naidu,Water Bottle,Home,5,450,10,2025.0,Paid,East
+ORD-2071,2024-09-30,Swathi Iyer,Pen Set,stationery,6,150,15,765.0,,South
+ORD-2072,2024-11-19,Sneha Naidu,Desk,Furniture,4,9500,0,38000.0,Paid,West
+ORD-2073,2024-03-26,Suresh Patel,Desk,Furniture ,1,9500,0,9500.0,PENDING,East
+ORD-2074,"Jul 10, 2024",Priya Rao,Pen Set,Stationery,3,150,5,427.5,Paid,South
+ORD-2075,30/03/2024,Nisha Kumar,Smartphone,Electronics,7,22000,5,146300.0,Paid,West
+ORD-2076,2024-11-22,Mythili Naidu,Desk,furniture,8,9500,10,68400.0,Failed,East
+ORD-2077,2024-10-06,Keerthi Iyer,Headphones,Electronics,2,2500,15,4250.0,Failed,East
+ORD-2078,"Aug 21, 2024",SWATHI IYER,Desk,FURNITURE,4,9500,15,32300.0,Paid,South
+ORD-2079,"Jul 14, 2024",Dinesh Patel,Notebook Pack,Stationery,5,250,10,1125.0,PENDING,North
+ORD-2080,16/10/2024,Ashok Raj,Laptop,Electronics,8,55000,10,396000.0,Pending,South
+ORD-2005,2024-08-11,Sneha Naidu,Laptop,Electronics,4,55000,10,198000.0,Pending,East
+ORD-2029,2024-04-11,Lakshmi Nair,Smartphone,ELECTRONICS,4,22000,0,88000.0,Paid,North
+ORD-2051,2024-10-05,Divya Singh,Office Chair,furniture,3,7500,10,20250.0,Paid,North
+ORD-2064,"Jul 15, 2024",Janani Pillai,Office Chair,FURNITURE,3,7500,0,22500.0,Pending,East

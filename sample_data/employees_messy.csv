@@ -1,0 +1,54 @@
+Employee ID,Name,Work Email,Department,Designation,Joining Date,Salary,Experience (Years),Phone,Status
+E301,Sanjay Iyer,sanjay.iyer@example.org,MARKETING,Content Writer,2022-04-13,56323,13,9250084428,ACTIVE
+E302,Revathi Nair,revathi.nair@example.org,Human Resources,HR Manager,2020-07-10,"30,684",3,9352114611,Active
+E303,  Pooja  Naidu,pooja.naidu@example.org,Marketing,Content Writer,2019-02-28,76233,17,9730651895,Active
+E304,Mythili Naidu,rahul@@example.org,Marketing,Marketing Executive,27-06-2020,61666,13,9135128844,ACTIVE
+E305,Pooja Verma,pooja.verma@example.org,IT,Data Analyst,2019-12-27,"Rs. 49,384",7,9206681214,Active
+E306,Prakash Sharma,prakash.sharma@example.org,operations,Coordinator,2015-09-06,59040,12,12345,active 
+E307,sanjay raj,sanjay.raj@example.org,Marketing,Marketing Executive,2022-06-07,54567,6,9122932394,ACTIVE
+E308,Dinesh Verma,dinesh.verma@example.org, Finance,Accountant,30-05-2016,71724,18,9173669588,Active
+E309,Sanjay Kumar,sanjay.kumar@example.org,OPERATIONS,Operations Lead,2024-02-13,"48,266",7,9931471931,Active
+E310,Anitha Naidu,anitha.naidu@example.org,Operations,Operations Lead,2018-02-09,,4,9680051935,ACTIVE
+E311,Balaji Kumar,,it,Software Engineer,2022-05-31,24318,0,9115956152,active 
+E312,Gopal Reddy,gopal.reddy@example.org,IT,System Admin,19-08-2018,"Rs. 25,709",0,9384936197,Active
+E313,Mythili Sharma,mythili.sharma@example.org,IT,System Admin,2019-09-21,63724,,9900651998,ACTIVE
+E314,  Karthik  Patel,karthik.patel@example.org,Marketing,Content Writer,2023-09-22,64317,11,9737444033,Active
+E315,Anitha Reddy,anitha.reddy@example.org, Marketing,Marketing Executive,2021-11-24,39586,-1,9423873102,Inactive
+E316,Mythili Pillai,mythili.pillai@example.org,human resources,HR Executive,15-05-2020,"63,968",12,9836691577,ACTIVE
+E317,Priya Iyer,priya.iyer@example.org,MARKETING,,2015-10-29,35554,2,9753154389,Active
+E318,Suresh Naidu,missing-domain@,Human Resources,HR Executive,2018-01-31,82968,18,9864668242,Active
+E319,Deepa Patel,deepa.patel@example.org,Marketing,Content Writer,2020-02-02,"Rs. 79,838",16,9561923010,ACTIVE
+E320,kavya das,kavya.das@example.org,Human Resources,HR Executive,28-10-2019,62487,14,9544328940,Active
+E321,Naveen Patel,naveen.patel@example.org,MARKETING,Content Writer,2019-08-31,37741,3,9558234365,active 
+E322,Ravi Singh,ravi.singh@example.org, Finance,Finance Analyst,2016-09-17,950000,15,9197951867,ACTIVE
+E323,Priya Nair,priya.nair@example.org,Human Resources,HR Manager,2016-01-31,"51,763",11,9697398528,Active
+E324,Keerthi Singh,keerthi.singh@example.org,Operations,Coordinator,2022-07-07,40961,3,9479673044,Inactive
+E325,  Swathi  Naidu,swathi.naidu@example.org,HUMAN RESOURCES,HR Manager,2021-09-25,54022,9,9211240259,ACTIVE
+E326,Anitha Rao,anitha.rao@example.org,it,System Admin,2020-05-29,41046,7,n/a,active 
+E327,Janani Reddy,janani.reddy@example.org,Human Resources,HR Manager,2021-06-09,51561,7,9702332331,Active
+E328,Sneha Raj,sneha.raj@example.org,Operations,Coordinator,29-04-2015,,5,9854517058,ACTIVE
+E329,Balaji Raj,,FINANCE,Finance Analyst,2015-01-26,37194,5,9708082645,Inactive
+E330,Lakshmi Singh,lakshmi.singh@example.org,Human Resources,HR Executive,2023-04-24,"23,006",0,9901131404,Active
+E331,Pooja Rao,pooja.rao@example.org,marketing,Content Writer,2020-02-02,50157,10,9497341481,ACTIVE
+E332,Pooja Pillai,no.at.example.org,Finance,Accountant,2015-08-04,35158,4,9910069356,Active
+E333,Janani Naidu,janani.naidu@example.org,HUMAN RESOURCES,HR Manager,2019-12-20,68414,13,9751842899,Inactive
+E334,Deepa Reddy,deepa.reddy@example.org,Marketing,Content Writer,2021-02-30,63729,16,9470626529,INACTIVE
+E335,Karthik Naidu,karthik.naidu@example.org,Human Resources,HR Manager,2022-08-09,80945,18,9665791188,Active
+E336,  Harish  Kumar,harish.kumar@example.org,human resources,HR Executive,2019-06-07,22751,1,9319497661,active 
+E337,Ravi Das,ravi.das@example.org,IT,Software Engineer,2023-07-28,"49,484",8,9452318696,ACTIVE
+E338,Meena Menon,meena.menon@example.org,Human Resources,HR Manager,2023-05-18,58257,13,9238712095,Inactive
+E339,Kavya Verma,kavya.verma@example.org,Operations,Operations Lead,2020-08-11,74105,45,9177390472,Inactive
+E340,Mythili Verma,mythili.verma@example.org,Human Resources,HR Manager,18-03-2015,57551,14,9436146289,INACTIVE
+E341,Ravi Gupta,ravi.gupta@example.org,OPERATIONS,Coordinator,2022-12-16,"Rs. 61,986",13,9223666470,inactive 
+E342,Harish Singh,harish.singh@example.org,Human Resources,HR Manager,2016-12-04,66857,14,9194628740,Inactive
+E343,Sanjay Reddy,sanjay.reddy@example.org, Human Resources,HR Executive,2019-11-20,78121,18,9662600500,ACTIVE
+E344,Meena Verma,meena.verma@example.org,Marketing,Content Writer,13-05-2023,"52,260",10,9457629711,Active
+E345,Lakshmi Menon,lakshmi.menon@example.org,HUMAN RESOURCES,HR Executive,2020-12-13,66353,16,9933468715,Active
+E346,Arun Gupta,arun.gupta@example.org,finance,Accountant,2017-08-25,32298,3,9374843786,ACTIVE
+E347,  Dinesh  Das,dinesh.das@example.org,IT,System Admin,2016-09-18,30804,2,9929839316,Inactive
+E348,Manoj Patel,manoj.patel@example.org,Marketing,Content Writer,21-08-2022,75590,18,9773469560,Active
+E349,Revathi Iyer,revathi.iyer@example.org,IT,Data Analyst,2015-10-07,71990,15,9777944609,ACTIVE
+E350,Sanjay Singh,sanjay.singh@example.org, Finance,Accountant,2018-12-12,62431,16,9433297890,Inactive
+E308,Dinesh Verma,dinesh.verma@example.org, Finance,Accountant,30-05-2016,71724,18,9173669588,Active
+E324,Keerthi Singh,keerthi.singh@example.org,Operations,Coordinator,2022-07-07,40961,3,9479673044,Inactive
+E342,Harish Singh,harish.singh@example.org,Human Resources,HR Manager,2016-12-04,66857,14,9194628740,Inactive
